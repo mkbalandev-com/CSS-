@@ -1,0 +1,34 @@
+/* Name Selector */
+h1
+{
+    background-color: pink;
+}
+/* ID Selector */
+
+#one
+{
+    background-color: red;
+}
+
+/* Class selector */
+.two
+{
+    background-color: yellow;
+}
+/* Universal selector */
+*
+{
+    background-color: gray;
+}
+/* Group  selector */
+h2, h3, h4{
+    background-color: aliceblue;
+}
+
+/* Attribute selector */
+input{
+    border: 1px solid black;
+    background-color: aliceblue;
+    text-align: center;
+    color: red;
+}
