@@ -1,0 +1,26 @@
+/*Named colors*/
+.two{
+    background-color: pink;
+}
+
+/*RGB Colours*/
+.one
+{
+    color: rgb(100, 50,100);
+}
+
+/*RGBA Colour */
+h2{
+    color: rgba(100, 50,100, 0.5);
+}
+
+/* HSL color */
+
+h1{
+    color: hsl(200, 50%, 50%);
+}
+
+/*HSLA Color */
+h4{
+    color: hsla(200, 50%, 50%, .5);
+}
