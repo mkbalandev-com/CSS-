@@ -1,0 +1,42 @@
+.one
+{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+.two
+{
+    width: 3cm;
+    height: 3cm;
+    background-color: yellow;
+    border: 1px solid black;
+}
+.three
+{
+    width: 100pt;
+    height: 100pt;
+    background-color: pink;
+    border: 1px solid black;
+}
+.four
+{
+    width: 20em;
+    height: 5em;
+    background-color: red;
+
+}
+.five
+{
+    width: 10rem;
+    height: 5rem;
+    background-color: blue;
+    display: inline-block;
+}
+.six
+{
+    width: 2%;
+    height: 2%;
+    display: inline-block;
+    background-color: bisque;
+}
